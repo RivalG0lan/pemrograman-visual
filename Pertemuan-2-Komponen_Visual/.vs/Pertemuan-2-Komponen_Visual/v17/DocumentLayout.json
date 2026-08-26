@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\RIVALDO NAINGGOLAN\\Pemrograman Visual\\Pertemuan-2-Komponen_Visual\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{776E387A-DD45-4D47-96B6-FB7F77463109}|Pertemuan-2-Komponen_Visual.vbproj|c:\\users\\asus\\documents\\rivaldo nainggolan\\pemrograman visual\\pertemuan-2-komponen_visual\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{776E387A-DD45-4D47-96B6-FB7F77463109}|Pertemuan-2-Komponen_Visual.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776E387A-DD45-4D47-96B6-FB7F77463109}|Pertemuan-2-Komponen_Visual.vbproj|c:\\users\\asus\\documents\\rivaldo nainggolan\\pemrograman visual\\pertemuan-2-komponen_visual\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{776E387A-DD45-4D47-96B6-FB7F77463109}|Pertemuan-2-Komponen_Visual.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\RIVALDO NAINGGOLAN\\Pemrograman Visual\\Pertemuan-2-Komponen_Visual\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\RIVALDO NAINGGOLAN\\Pemrograman Visual\\Pertemuan-2-Komponen_Visual\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAABsAAAAAAAAAAAAEwB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-26T02:06:26.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\RIVALDO NAINGGOLAN\\Pemrograman Visual\\Pertemuan-2-Komponen_Visual\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\RIVALDO NAINGGOLAN\\Pemrograman Visual\\Pertemuan-2-Komponen_Visual\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-26T01:45:10.192Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
