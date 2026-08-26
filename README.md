@@ -3,9 +3,9 @@
 [![Mata Kuliah](https://img.shields.io/badge/Mata%20Kuliah-Pemrograman%20Visual-blue)](.)
 [![Program Studi](https://img.shields.io/badge/Prodi-D3%20Teknik%20Informatika-informational)](.)
 [![Universitas](https://img.shields.io/badge/Universitas-USU-orange)](.)
-[![Tahun Ajaran](https://img.shields.io/badge/Tahun%20Ajaran-2024-lightgrey)](.)
+[![Tahun Ajaran](https://img.shields.io/badge/Tahun%20Ajaran-2026-lightgrey)](.)
 
-Repository ini berisi catatan dan progres belajar **Pemrograman Visual** pada mata kuliah D3 Teknik Informatika, Universitas Sumatera Utara (USU), tahun ajaran 2026.
+Repository ini berisi catatan dan progres belajar **Pemrograman Visual** pada mata kuliah D3 Teknik Informatika, Universitas Sumatera Utara (USU), tahun ajaran 2026/2027.
 
 ---
 
